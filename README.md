@@ -4,8 +4,8 @@ Database Management System Course Project
 Hosted on https://github.com/Rishabhag123/Online-JobPortal
 
 <pre>
-Rishabh Agarwal
-MIS - 111807069
+Pooja Pansare
+SRN - 202101473
 TY Computer Engineering
 Division - 2
 </pre>
