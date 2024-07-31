@@ -1,7 +1,7 @@
 # Online-JobPortal
 Database Management System Course Project
 
-Hosted on https://github.com/Rishabhag123/Online-JobPortal
+
 
 <pre>
 Pooja Pansare
@@ -33,67 +33,3 @@ Database - MySQL
 </ul>
 
 
-### Installation Guide - 
-1. Clone the repository
-2. Install Flask and flask-mysqldb using - 
-<pre>
-pip install flask
-pip install flask-mysqldb
-</pre>
-3. Run the application using - 
-<pre>
-python app.py
-</pre>
-4. Go to localhost:5000 using your browser
-
-### ER Diagram - 
-
-![](diagrams/ER.png)
-
-### Relational Schema - 
-
-![](diagrams/Relational_Schema.png)
-
-### Web Pages - 
-<ul>
-  <li>Signup </li><br> 
-
-![](screenshots/signup.png)
-
-<li>Login </li><br> 
-
-![](screenshots/login.png)
-
-<li>Home </li><br> 
-
-![](screenshots/home.png)
-
-<li>Profile Details </li><br> 
-
-![](screenshots/profile.png)
-
-<li>Manage Profile</li><br> 
-
-![](screenshots/profile2.png)
-
-<li>Jobs </li><br> 
-
-![](screenshots/jobs.png)
-
-<li>Job Search </li><br> 
-
-![](screenshots/jobsearch.png)
-
-<li>Interviews </li><br> 
-
-![](screenshots/interviews.png)
-
-<li>Results </li><br> 
- 
-![](screenshots/results.png)
-
-<li> Account Details </li><br> 
-
-![](screenshots/account.png)
-
-</li>
