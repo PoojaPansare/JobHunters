@@ -9,7 +9,7 @@ app.secret_key = "DBMS"
 # Configure Database
 app.config['MYSQL_HOST'] = "localhost"
 app.config['MYSQL_USER'] = "jobportal_admin"
-app.config['MYSQL_PASSWORD'] = "Rishabh@123"
+app.config['MYSQL_PASSWORD'] = "Pooja@123"
 app.config['MYSQL_DB'] = "jobportal"
 
 mysql = MySQL(app)
